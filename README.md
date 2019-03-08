@@ -12,3 +12,4 @@ This will list ways to create and manage branches.
 
 Be careful of master getting ahead of branch
 
+`git branch -d BRANCH_NAME` - delete a branch locally
